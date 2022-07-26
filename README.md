@@ -15,5 +15,11 @@ $ npm i
 Copiez votre clé d'api et mettais la dans le fichier '.env'
 **Ex : REACT_APP_API_KEY = Votre clé d'api** 
 
+Le but de ce projet etait de prendre en main l'api . 
+J'ai donc choisit la technologie  **React** nous permet de créer des composants réutilisables.
+Peuvent également modifier les données, sans avoir à recharger la page.
+
+By Axesan 
+
 
 
