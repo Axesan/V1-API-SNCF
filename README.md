@@ -1,4 +1,5 @@
-# PROJET API SNCF 
+# PROJET V1-API SNCF - 26-07-2022
+
 
 Mise en place d'une API en **REACT** pour connaitre les prochains départs et les arrivées en temps réel.
 
